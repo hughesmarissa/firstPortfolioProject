@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "lite": "lite-server",
-		"start": "npm run lite",
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +20,8 @@
   "homepage": "https://github.com/hughesmarissa/firstPortfolioProject#readme",
   "dependencies": {
     "bootstrap": "^4.5.2"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
   }
 }
