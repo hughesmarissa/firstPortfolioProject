@@ -1,0 +1,24 @@
+{
+  "name": "firstportfolioproject",
+  "version": "1.0.0",
+  "description": "Portfolio for Marissa Hughes",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+		"start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hughesmarissa/firstPortfolioProject.git"
+  },
+  "author": "Marissa Hughes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hughesmarissa/firstPortfolioProject/issues"
+  },
+  "homepage": "https://github.com/hughesmarissa/firstPortfolioProject#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
